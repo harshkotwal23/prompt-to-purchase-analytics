@@ -1,0 +1,101 @@
+event_id,query_id,product_id,match_rank,clicked,time_spent_on_page_cleaned,product_id,name,category,company,matched_intents,price,rating,num_reviews,query_id,raw_prompt,mapped_intent,match_success
+M1,Q68,P77,2,TRUE,55,P77,Travel Canister,Kitchen,FlashZone,"EDC gear, emergency gear",71.35,3.2,448,Q68,Back-to-school tech under $100,budget tech,0
+M2,Q25,P38,1,FALSE,0,P38,EDC Tool Kit,Accessories,GearNest,"luxury gifts, minimalist gifts",73.44,4.7,527,Q25,Durable running belt for marathon,running accessories,0
+M3,Q39,P2,3,TRUE,19,P2,EDC Tool Kit,Kitchen,GearNest,"luxury gifts, minimalist gifts",99.77,3.3,515,Q39,Looking for a gift for minimalist dads,minimalist gifts,1
+M4,Q6,P7,3,FALSE,0,P7,Smartwatch,Tech,FlashZone,"outdoor survival gear, EDC gear",92.57,4.7,315,Q6,Cheap EDC gear under $50?,budget EDC gear,0
+M5,Q17,P82,2,TRUE,57,P82,Kitchen Scissors,Travel Gear,GearNest,"EDC gear, emergency gear",35.28,3.9,127,Q17,Noise-canceling headphones under $200,budget tech,0
+M6,Q2,P74,2,FALSE,0,P74,Smartwatch,Kitchen,FlashZone,running accessories,78.54,4.1,627,Q2,What's a good travel container?,travel container,0
+M7,Q57,P44,1,TRUE,18,P44,Key Organizer,Outdoor Gear,Minimade,"emergency gear, outdoor survival gear",97.78,4.5,957,Q57,What's a good travel container?,travel container,0
+M8,Q62,P15,1,FALSE,0,P15,Mini Flashlight,Accessories,GearNest,"EDC gear, emergency gear",15.61,4.4,70,Q62,Looking for a gift for minimalist dads,minimalist gifts,0
+M9,Q10,P74,3,TRUE,11,P74,Smartwatch,Kitchen,FlashZone,running accessories,78.54,4.1,627,Q10,Small flashlight for emergencies,emergency gear,0
+M10,Q20,P73,2,TRUE,17,P73,Running Belt,Tech,FlashZone,"travel container, EDC gear",47.33,3,370,Q20,Noise-canceling headphones under $200,budget tech,0
+M11,Q16,P72,2,TRUE,51,P72,Running Belt,Outdoor Gear,Minimade,"emergency gear, outdoor survival gear",50.34,3.4,440,Q16,Best waterproof hiking flashlight,outdoor survival gear,1
+M12,Q67,P49,2,FALSE,0,P49,Key Organizer,Outdoor Gear,TechSeed,"luxury gifts, minimalist gifts",58.3,4.4,873,Q67,Cheap EDC gear under $50?,budget EDC gear,0
+M13,Q76,P55,2,TRUE,41,P55,Leather Wallet,Fitness,TechSeed,"minimalist gifts, EDC gear",91.5,4,692,Q76,Best waterproof hiking flashlight,outdoor survival gear,0
+M14,Q95,P13,1,TRUE,18,P13,Kitchen Scissors,Fitness,Minimade,budget tech,99.59,4.3,458,Q95,Durable running belt for marathon,running accessories,0
+M15,Q85,P11,1,TRUE,13,P11,Headphones,Travel Gear,GearNest,"emergency gear, outdoor survival gear",25.91,4,572,Q85,Best waterproof hiking flashlight,outdoor survival gear,1
+M16,Q71,P10,1,TRUE,28,P10,Smartwatch,Accessories,GearNest,"travel container, EDC gear",89.63,4.9,97,Q71,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M17,Q58,P89,3,FALSE,0,P89,Headphones,Fitness,Minimade,"outdoor survival gear, EDC gear",29.97,4,676,Q58,Best waterproof hiking flashlight,outdoor survival gear,1
+M18,Q5,P30,2,FALSE,0,P30,EDC Tool Kit,Tech,FlashZone,"travel container, EDC gear",21.97,4.3,588,Q5,Best waterproof hiking flashlight,outdoor survival gear,0
+M19,Q59,P10,3,TRUE,18,P10,Smartwatch,Accessories,GearNest,"travel container, EDC gear",89.63,4.9,97,Q59,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M20,Q81,P76,3,TRUE,29,P76,Running Belt,Fitness,Minimade,"outdoor survival gear, EDC gear",93.16,5,556,Q81,Noise-canceling headphones under $200,budget tech,0
+M21,Q15,P70,1,TRUE,60,P70,Smartwatch,Accessories,UrbanTrek,budget tech,42.18,4.1,151,Q15,Best waterproof hiking flashlight,outdoor survival gear,0
+M22,Q35,P19,1,TRUE,12,P19,Leather Wallet,Kitchen,Minimade,running accessories,88.43,3.1,679,Q35,Back-to-school tech under $100,budget tech,0
+M23,Q40,P77,3,FALSE,0,P77,Travel Canister,Kitchen,FlashZone,"EDC gear, emergency gear",71.35,3.2,448,Q40,Back-to-school tech under $100,budget tech,0
+M24,Q16,P60,3,FALSE,0,P60,Tactical Flashlight,Fitness,UrbanTrek,"minimalist gifts, EDC gear",58.81,4.3,353,Q16,Best waterproof hiking flashlight,outdoor survival gear,0
+M25,Q52,P35,3,FALSE,0,P35,Smartwatch,Accessories,FlashZone,"budget tech, luxury gifts",74.8,4.2,836,Q52,Small flashlight for emergencies,emergency gear,0
+M26,Q11,P77,1,FALSE,0,P77,Travel Canister,Kitchen,FlashZone,"EDC gear, emergency gear",71.35,3.2,448,Q11,Luxury gift for men,luxury gifts,0
+M27,Q42,P78,2,TRUE,7,P78,Tactical Flashlight,Kitchen,SnockCo,"outdoor survival gear, EDC gear",37.11,3.7,475,Q42,Small flashlight for emergencies,emergency gear,0
+M28,Q30,P87,3,TRUE,50,P87,Travel Canister,Outdoor Gear,Minimade,"emergency gear, outdoor survival gear",71.23,3.1,673,Q30,Luxury gift for men,luxury gifts,0
+M29,Q87,P35,3,TRUE,50,P35,Smartwatch,Accessories,FlashZone,"budget tech, luxury gifts",74.8,4.2,836,Q87,Back-to-school tech under $100,budget tech,1
+M30,Q97,P23,2,FALSE,0,P23,Travel Canister,Travel Gear,GearNest,minimalist kitchen tools,49.55,4,895,Q97,Durable running belt for marathon,running accessories,0
+M31,Q36,P24,3,FALSE,0,P24,Running Belt,Travel Gear,Minimade,"outdoor survival gear, EDC gear",15.18,3.8,958,Q36,Looking for a gift for minimalist dads,minimalist gifts,0
+M32,Q63,P12,2,FALSE,0,P12,Tactical Flashlight,Outdoor Gear,FlashZone,"emergency gear, outdoor survival gear",50.97,3.4,562,Q63,Luxury gift for men,luxury gifts,0
+M33,Q43,P42,3,TRUE,56,P42,Tactical Flashlight,Tech,UrbanTrek,"travel container, EDC gear",64.51,3.3,140,Q43,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M34,Q21,P43,2,FALSE,0,P43,Travel Canister,Outdoor Gear,SnockCo,"luxury gifts, minimalist gifts",91.41,3.4,265,Q21,Best waterproof hiking flashlight,outdoor survival gear,0
+M35,Q85,P52,3,TRUE,31,P52,Running Belt,Tech,SnockCo,"emergency gear, outdoor survival gear",47.74,4.2,270,Q85,Best waterproof hiking flashlight,outdoor survival gear,1
+M36,Q12,P41,2,FALSE,0,P41,Mini Flashlight,Fitness,FlashZone,running accessories,15.82,3.2,914,Q12,What's a good travel container?,travel container,0
+M37,Q99,P52,3,TRUE,44,P52,Running Belt,Tech,SnockCo,"emergency gear, outdoor survival gear",47.74,4.2,270,Q99,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M38,Q70,P60,2,TRUE,14,P60,Tactical Flashlight,Fitness,UrbanTrek,"minimalist gifts, EDC gear",58.81,4.3,353,Q70,Best waterproof hiking flashlight,outdoor survival gear,0
+M39,Q67,P47,3,FALSE,0,P47,Travel Canister,Kitchen,GearNest,minimalist kitchen tools,84.41,3.9,322,Q67,Cheap EDC gear under $50?,budget EDC gear,0
+M40,Q57,P98,1,TRUE,19,P98,Mini Flashlight,Outdoor Gear,TechSeed,"luxury gifts, minimalist gifts",53.57,3.6,246,Q57,What's a good travel container?,travel container,0
+M41,Q71,P17,2,FALSE,0,P17,Headphones,Accessories,GearNest,"emergency gear, outdoor survival gear",76.48,4.8,600,Q71,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M42,Q90,P63,1,TRUE,42,P63,Kitchen Scissors,Fitness,Minimade,running accessories,48.97,3.3,714,Q90,Looking for a gift for minimalist dads,minimalist gifts,0
+M43,Q78,P31,3,TRUE,21,P31,Mini Flashlight,Outdoor Gear,GearNest,budget tech,71.93,3.6,281,Q78,Durable running belt for marathon,running accessories,0
+M44,Q71,P2,3,FALSE,0,P2,EDC Tool Kit,Kitchen,GearNest,"luxury gifts, minimalist gifts",99.77,3.3,515,Q71,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M45,Q29,P15,2,TRUE,43,P15,Mini Flashlight,Accessories,GearNest,"EDC gear, emergency gear",15.61,4.4,70,Q29,Cheap EDC gear under $50?,budget EDC gear,0
+M46,Q20,P64,3,FALSE,0,P64,Travel Canister,Travel Gear,GearNest,running accessories,29.95,4.9,540,Q20,Noise-canceling headphones under $200,budget tech,0
+M47,Q91,P35,2,FALSE,0,P35,Smartwatch,Accessories,FlashZone,"budget tech, luxury gifts",74.8,4.2,836,Q91,Best waterproof hiking flashlight,outdoor survival gear,0
+M48,Q32,P59,3,TRUE,26,P59,Leather Wallet,Kitchen,Minimade,"budget tech, luxury gifts",72.43,4,822,Q32,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M49,Q25,P77,3,TRUE,57,P77,Travel Canister,Kitchen,FlashZone,"EDC gear, emergency gear",71.35,3.2,448,Q25,Durable running belt for marathon,running accessories,0
+M50,Q9,P36,2,FALSE,0,P36,Mini Flashlight,Travel Gear,UrbanTrek,"emergency gear, outdoor survival gear",94.2,3.2,909,Q9,Looking for a gift for minimalist dads,minimalist gifts,0
+M51,Q65,P35,1,FALSE,0,P35,Smartwatch,Accessories,FlashZone,"budget tech, luxury gifts",74.8,4.2,836,Q65,Durable running belt for marathon,running accessories,0
+M52,Q39,P76,3,FALSE,0,P76,Running Belt,Fitness,Minimade,"outdoor survival gear, EDC gear",93.16,5,556,Q39,Looking for a gift for minimalist dads,minimalist gifts,0
+M53,Q20,P58,3,FALSE,0,P58,Travel Canister,Outdoor Gear,GearNest,budget tech,51.54,4.2,680,Q20,Noise-canceling headphones under $200,budget tech,1
+M54,Q43,P71,3,FALSE,0,P71,Tactical Flashlight,Accessories,TechSeed,running accessories,27.99,3.4,434,Q43,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M55,Q42,P25,3,TRUE,38,P25,Headphones,Outdoor Gear,TechSeed,running accessories,96.37,5,579,Q42,Small flashlight for emergencies,emergency gear,0
+M56,Q50,P30,2,TRUE,22,P30,EDC Tool Kit,Tech,FlashZone,"travel container, EDC gear",21.97,4.3,588,Q50,Noise-canceling headphones under $200,budget tech,0
+M57,Q96,P61,3,FALSE,0,P61,Key Organizer,Accessories,GearNest,budget tech,83.56,3.3,57,Q96,Luxury gift for men,luxury gifts,0
+M58,Q85,P84,1,FALSE,0,P84,EDC Tool Kit,Fitness,GearNest,"minimalist gifts, EDC gear",97,3.2,36,Q85,Best waterproof hiking flashlight,outdoor survival gear,0
+M59,Q17,P65,3,FALSE,0,P65,Headphones,Travel Gear,GearNest,"emergency gear, outdoor survival gear",92.98,3.2,146,Q17,Noise-canceling headphones under $200,budget tech,0
+M60,Q13,P57,1,FALSE,0,P57,Running Belt,Fitness,FlashZone,"outdoor survival gear, EDC gear",63.37,3.8,863,Q13,What's a good travel container?,travel container,0
+M61,Q93,P19,2,TRUE,6,P19,Leather Wallet,Kitchen,Minimade,running accessories,88.43,3.1,679,Q93,Back-to-school tech under $100,budget tech,0
+M62,Q61,P34,2,FALSE,0,P34,Mini Flashlight,Outdoor Gear,UrbanTrek,"outdoor survival gear, EDC gear",89.87,4.8,388,Q61,Best waterproof hiking flashlight,outdoor survival gear,1
+M63,Q11,P43,3,FALSE,0,P43,Travel Canister,Outdoor Gear,SnockCo,"luxury gifts, minimalist gifts",91.41,3.4,265,Q11,Luxury gift for men,luxury gifts,1
+M64,Q81,P92,2,TRUE,41,P92,Headphones,Tech,TechSeed,"EDC gear, emergency gear",47.21,3.1,881,Q81,Noise-canceling headphones under $200,budget tech,0
+M65,Q9,P31,3,FALSE,0,P31,Mini Flashlight,Outdoor Gear,GearNest,budget tech,71.93,3.6,281,Q9,Looking for a gift for minimalist dads,minimalist gifts,0
+M66,Q96,P12,2,TRUE,50,P12,Tactical Flashlight,Outdoor Gear,FlashZone,"emergency gear, outdoor survival gear",50.97,3.4,562,Q96,Luxury gift for men,luxury gifts,0
+M67,Q82,P91,1,FALSE,0,P91,Smartwatch,Outdoor Gear,SnockCo,minimalist kitchen tools,38.71,3.9,778,Q82,Best waterproof hiking flashlight,outdoor survival gear,0
+M68,Q89,P39,1,TRUE,22,P39,Headphones,Outdoor Gear,SnockCo,"travel container, EDC gear",68.91,4.7,55,Q89,Compact kitchen tool for small spaces,minimalist kitchen tools,0
+M69,Q8,P38,2,FALSE,0,P38,EDC Tool Kit,Accessories,GearNest,"luxury gifts, minimalist gifts",73.44,4.7,527,Q8,Noise-canceling headphones under $200,budget tech,0
+M70,Q19,P32,3,FALSE,0,P32,Running Belt,Accessories,Minimade,budget tech,41.88,4.5,84,Q19,What's a good travel container?,travel container,0
+M71,Q88,P24,1,TRUE,7,P24,Running Belt,Travel Gear,Minimade,"outdoor survival gear, EDC gear",15.18,3.8,958,Q88,Luxury gift for men,luxury gifts,0
+M72,Q79,P49,3,TRUE,33,P49,Key Organizer,Outdoor Gear,TechSeed,"luxury gifts, minimalist gifts",58.3,4.4,873,Q79,Luxury gift for men,luxury gifts,1
+M73,Q75,P19,1,FALSE,0,P19,Leather Wallet,Kitchen,Minimade,running accessories,88.43,3.1,679,Q75,Noise-canceling headphones under $200,budget tech,0
+M74,Q33,P59,2,TRUE,59,P59,Leather Wallet,Kitchen,Minimade,"budget tech, luxury gifts",72.43,4,822,Q33,Cheap EDC gear under $50?,budget EDC gear,0
+M75,Q60,P37,3,TRUE,6,P37,Tactical Flashlight,Outdoor Gear,SnockCo,"minimalist gifts, EDC gear",78.11,3.3,298,Q60,Looking for a gift for minimalist dads,minimalist gifts,1
+M76,Q57,P45,3,FALSE,0,P45,Kitchen Scissors,Accessories,Minimade,"outdoor survival gear, EDC gear",17.11,4.5,350,Q57,What's a good travel container?,travel container,0
+M77,Q55,P89,2,FALSE,0,P89,Headphones,Fitness,Minimade,"outdoor survival gear, EDC gear",29.97,4,676,Q55,Best waterproof hiking flashlight,outdoor survival gear,1
+M78,Q39,P26,2,FALSE,0,P26,Headphones,Accessories,UrbanTrek,minimalist kitchen tools,33.5,3.1,763,Q39,Looking for a gift for minimalist dads,minimalist gifts,0
+M79,Q31,P49,3,FALSE,0,P49,Key Organizer,Outdoor Gear,TechSeed,"luxury gifts, minimalist gifts",58.3,4.4,873,Q31,Back-to-school tech under $100,budget tech,0
+M80,Q38,P90,2,TRUE,55,P90,Smartwatch,Tech,Minimade,"emergency gear, outdoor survival gear",54.51,4.7,616,Q38,Luxury gift for men,luxury gifts,0
+M81,Q85,P51,2,TRUE,38,P51,Smartwatch,Travel Gear,FlashZone,"minimalist gifts, EDC gear",51.94,4.5,331,Q85,Best waterproof hiking flashlight,outdoor survival gear,0
+M82,Q88,P100,3,TRUE,60,P100,Tactical Flashlight,Accessories,TechSeed,minimalist kitchen tools,56.16,4.4,788,Q88,Luxury gift for men,luxury gifts,0
+M83,Q78,P96,2,FALSE,0,P96,Headphones,Kitchen,SnockCo,"travel container, EDC gear",40.01,3.8,259,Q78,Durable running belt for marathon,running accessories,0
+M84,Q30,P78,2,TRUE,42,P78,Tactical Flashlight,Kitchen,SnockCo,"outdoor survival gear, EDC gear",37.11,3.7,475,Q30,Luxury gift for men,luxury gifts,0
+M85,Q25,P80,2,TRUE,42,P80,Key Organizer,Kitchen,TechSeed,"travel container, EDC gear",60.85,5,368,Q25,Durable running belt for marathon,running accessories,0
+M86,Q13,P81,3,TRUE,21,P81,Kitchen Scissors,Fitness,TechSeed,"minimalist gifts, EDC gear",18.42,3.1,263,Q13,What's a good travel container?,travel container,0
+M87,Q57,P5,3,FALSE,0,P5,Mini Flashlight,Travel Gear,TechSeed,"minimalist gifts, EDC gear",90.21,4.5,797,Q57,What's a good travel container?,travel container,0
+M88,Q17,P12,2,FALSE,0,P12,Tactical Flashlight,Outdoor Gear,FlashZone,"emergency gear, outdoor survival gear",50.97,3.4,562,Q17,Noise-canceling headphones under $200,budget tech,0
+M89,Q54,P23,1,TRUE,52,P23,Travel Canister,Travel Gear,GearNest,minimalist kitchen tools,49.55,4,895,Q54,Small flashlight for emergencies,emergency gear,0
+M90,Q70,P47,3,FALSE,0,P47,Travel Canister,Kitchen,GearNest,minimalist kitchen tools,84.41,3.9,322,Q70,Best waterproof hiking flashlight,outdoor survival gear,0
+M91,Q22,P33,2,FALSE,0,P33,Travel Canister,Kitchen,FlashZone,"EDC gear, emergency gear",99.67,3.1,228,Q22,Noise-canceling headphones under $200,budget tech,0
+M92,Q44,P15,2,TRUE,11,P15,Mini Flashlight,Accessories,GearNest,"EDC gear, emergency gear",15.61,4.4,70,Q44,What's a good travel container?,travel container,0
+M93,Q97,P29,3,FALSE,0,P29,Key Organizer,Fitness,Minimade,minimalist kitchen tools,25.19,4.8,262,Q97,Durable running belt for marathon,running accessories,0
+M94,Q72,P47,1,FALSE,0,P47,Travel Canister,Kitchen,GearNest,minimalist kitchen tools,84.41,3.9,322,Q72,Looking for a gift for minimalist dads,minimalist gifts,0
+M95,Q34,P69,1,FALSE,0,P69,Smartwatch,Tech,TechSeed,"budget tech, luxury gifts",35.34,3.9,740,Q34,Best waterproof hiking flashlight,outdoor survival gear,0
+M96,Q87,P96,3,FALSE,0,P96,Headphones,Kitchen,SnockCo,"travel container, EDC gear",40.01,3.8,259,Q87,Back-to-school tech under $100,budget tech,0
+M97,Q49,P82,2,TRUE,45,P82,Kitchen Scissors,Travel Gear,GearNest,"EDC gear, emergency gear",35.28,3.9,127,Q49,Looking for a gift for minimalist dads,minimalist gifts,0
+M98,Q30,P61,1,FALSE,0,P61,Key Organizer,Accessories,GearNest,budget tech,83.56,3.3,57,Q30,Luxury gift for men,luxury gifts,0
+M99,Q79,P29,3,TRUE,42,P29,Key Organizer,Fitness,Minimade,minimalist kitchen tools,25.19,4.8,262,Q79,Luxury gift for men,luxury gifts,0
+M100,Q60,P90,2,FALSE,0,P90,Smartwatch,Tech,Minimade,"emergency gear, outdoor survival gear",54.51,4.7,616,Q60,Looking for a gift for minimalist dads,minimalist gifts,0

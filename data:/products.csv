@@ -1,0 +1,101 @@
+product_id,name,category,company,matched_intents,price,rating,num_reviews
+P1,Kitchen Scissors,Fitness,FlashZone,"emergency gear, outdoor survival gear",37.33,4.2,929
+P2,EDC Tool Kit,Kitchen,GearNest,"luxury gifts, minimalist gifts",99.77,3.3,515
+P3,Key Organizer,Travel Gear,GearNest,"minimalist gifts, EDC gear",68.33,4.6,442
+P4,EDC Tool Kit,Travel Gear,Minimade,running accessories,65.65,3.9,267
+P5,Mini Flashlight,Travel Gear,TechSeed,"minimalist gifts, EDC gear",90.21,4.5,797
+P6,Leather Wallet,Travel Gear,Minimade,budget tech,28.44,3.0,749
+P7,Smartwatch,Tech,FlashZone,"outdoor survival gear, EDC gear",92.57,4.7,315
+P8,Mini Flashlight,Tech,GearNest,minimalist kitchen tools,46.78,3.3,986
+P9,Mini Flashlight,Travel Gear,UrbanTrek,"EDC gear, emergency gear",56.53,3.2,381
+P10,Smartwatch,Accessories,GearNest,"travel container, EDC gear",89.63,4.9,97
+P11,Headphones,Travel Gear,GearNest,"emergency gear, outdoor survival gear",25.91,4.0,572
+P12,Tactical Flashlight,Outdoor Gear,FlashZone,"emergency gear, outdoor survival gear",50.97,3.4,562
+P13,Kitchen Scissors,Fitness,Minimade,budget tech,99.59,4.3,458
+P14,Mini Flashlight,Kitchen,GearNest,"minimalist gifts, EDC gear",34.1,3.7,612
+P15,Mini Flashlight,Accessories,GearNest,"EDC gear, emergency gear",15.61,4.4,70
+P16,Kitchen Scissors,Travel Gear,UrbanTrek,"travel container, EDC gear",21.02,3.5,695
+P17,Headphones,Accessories,GearNest,"emergency gear, outdoor survival gear",76.48,4.8,600
+P18,Headphones,Accessories,Minimade,"budget tech, luxury gifts",31.18,3.2,451
+P19,Leather Wallet,Kitchen,Minimade,running accessories,88.43,3.1,679
+P20,Key Organizer,Travel Gear,TechSeed,running accessories,43.84,4.7,264
+P21,Kitchen Scissors,Accessories,Minimade,"emergency gear, outdoor survival gear",26.92,3.4,483
+P22,Kitchen Scissors,Travel Gear,FlashZone,"budget tech, luxury gifts",23.32,4.3,563
+P23,Travel Canister,Travel Gear,GearNest,minimalist kitchen tools,49.55,4.0,895
+P24,Running Belt,Travel Gear,Minimade,"outdoor survival gear, EDC gear",15.18,3.8,958
+P25,Headphones,Outdoor Gear,TechSeed,running accessories,96.37,5.0,579
+P26,Headphones,Accessories,UrbanTrek,minimalist kitchen tools,33.5,3.1,763
+P27,Mini Flashlight,Travel Gear,SnockCo,"luxury gifts, minimalist gifts",19.26,4.0,951
+P28,Mini Flashlight,Accessories,FlashZone,"travel container, EDC gear",21.81,3.4,619
+P29,Key Organizer,Fitness,Minimade,minimalist kitchen tools,25.19,4.8,262
+P30,EDC Tool Kit,Tech,FlashZone,"travel container, EDC gear",21.97,4.3,588
+P31,Mini Flashlight,Outdoor Gear,GearNest,budget tech,71.93,3.6,281
+P32,Running Belt,Accessories,Minimade,budget tech,41.88,4.5,84
+P33,Travel Canister,Kitchen,FlashZone,"EDC gear, emergency gear",99.67,3.1,228
+P34,Mini Flashlight,Outdoor Gear,UrbanTrek,"outdoor survival gear, EDC gear",89.87,4.8,388
+P35,Smartwatch,Accessories,FlashZone,"budget tech, luxury gifts",74.8,4.2,836
+P36,Mini Flashlight,Travel Gear,UrbanTrek,"emergency gear, outdoor survival gear",94.2,3.2,909
+P37,Tactical Flashlight,Outdoor Gear,SnockCo,"minimalist gifts, EDC gear",78.11,3.3,298
+P38,EDC Tool Kit,Accessories,GearNest,"luxury gifts, minimalist gifts",73.44,4.7,527
+P39,Headphones,Outdoor Gear,SnockCo,"travel container, EDC gear",68.91,4.7,55
+P40,Travel Canister,Outdoor Gear,TechSeed,"outdoor survival gear, EDC gear",98.28,3.3,462
+P41,Mini Flashlight,Fitness,FlashZone,running accessories,15.82,3.2,914
+P42,Tactical Flashlight,Tech,UrbanTrek,"travel container, EDC gear",64.51,3.3,140
+P43,Travel Canister,Outdoor Gear,SnockCo,"luxury gifts, minimalist gifts",91.41,3.4,265
+P44,Key Organizer,Outdoor Gear,Minimade,"emergency gear, outdoor survival gear",97.78,4.5,957
+P45,Kitchen Scissors,Accessories,Minimade,"outdoor survival gear, EDC gear",17.11,4.5,350
+P46,Running Belt,Fitness,UrbanTrek,minimalist kitchen tools,28.53,4.4,401
+P47,Travel Canister,Kitchen,GearNest,minimalist kitchen tools,84.41,3.9,322
+P48,Kitchen Scissors,Accessories,TechSeed,"travel container, EDC gear",31.42,3.7,895
+P49,Key Organizer,Outdoor Gear,TechSeed,"luxury gifts, minimalist gifts",58.3,4.4,873
+P50,Mini Flashlight,Outdoor Gear,SnockCo,"travel container, EDC gear",89.55,3.5,604
+P51,Smartwatch,Travel Gear,FlashZone,"minimalist gifts, EDC gear",51.94,4.5,331
+P52,Running Belt,Tech,SnockCo,"emergency gear, outdoor survival gear",47.74,4.2,270
+P53,Travel Canister,Fitness,SnockCo,running accessories,59.19,4.6,713
+P54,Kitchen Scissors,Outdoor Gear,SnockCo,running accessories,95.65,4.8,648
+P55,Leather Wallet,Fitness,TechSeed,"minimalist gifts, EDC gear",91.5,4.0,692
+P56,Running Belt,Outdoor Gear,TechSeed,running accessories,40.13,3.3,440
+P57,Running Belt,Fitness,FlashZone,"outdoor survival gear, EDC gear",63.37,3.8,863
+P58,Travel Canister,Outdoor Gear,GearNest,budget tech,51.54,4.2,680
+P59,Leather Wallet,Kitchen,Minimade,"budget tech, luxury gifts",72.43,4.0,822
+P60,Tactical Flashlight,Fitness,UrbanTrek,"minimalist gifts, EDC gear",58.81,4.3,353
+P61,Key Organizer,Accessories,GearNest,budget tech,83.56,3.3,57
+P62,Kitchen Scissors,Kitchen,SnockCo,"EDC gear, emergency gear",53.71,4.8,599
+P63,Kitchen Scissors,Fitness,Minimade,running accessories,48.97,3.3,714
+P64,Travel Canister,Travel Gear,GearNest,running accessories,29.95,4.9,540
+P65,Headphones,Travel Gear,GearNest,"emergency gear, outdoor survival gear",92.98,3.2,146
+P66,Headphones,Fitness,FlashZone,"emergency gear, outdoor survival gear",65.61,4.9,922
+P67,Headphones,Tech,Minimade,"emergency gear, outdoor survival gear",85.6,4.1,928
+P68,Tactical Flashlight,Fitness,Minimade,"budget tech, luxury gifts",37.03,3.5,662
+P69,Smartwatch,Tech,TechSeed,"budget tech, luxury gifts",35.34,3.9,740
+P70,Smartwatch,Accessories,UrbanTrek,budget tech,42.18,4.1,151
+P71,Tactical Flashlight,Accessories,TechSeed,running accessories,27.99,3.4,434
+P72,Running Belt,Outdoor Gear,Minimade,"emergency gear, outdoor survival gear",50.34,3.4,440
+P73,Running Belt,Tech,FlashZone,"travel container, EDC gear",47.33,3.0,370
+P74,Smartwatch,Kitchen,FlashZone,running accessories,78.54,4.1,627
+P75,Kitchen Scissors,Kitchen,UrbanTrek,minimalist kitchen tools,52.05,3.1,354
+P76,Running Belt,Fitness,Minimade,"outdoor survival gear, EDC gear",93.16,5.0,556
+P77,Travel Canister,Kitchen,FlashZone,"EDC gear, emergency gear",71.35,3.2,448
+P78,Tactical Flashlight,Kitchen,SnockCo,"outdoor survival gear, EDC gear",37.11,3.7,475
+P79,Leather Wallet,Outdoor Gear,UrbanTrek,running accessories,78.92,4.7,268
+P80,Key Organizer,Kitchen,TechSeed,"travel container, EDC gear",60.85,5.0,368
+P81,Kitchen Scissors,Fitness,TechSeed,"minimalist gifts, EDC gear",18.42,3.1,263
+P82,Kitchen Scissors,Travel Gear,GearNest,"EDC gear, emergency gear",35.28,3.9,127
+P83,EDC Tool Kit,Accessories,TechSeed,"budget tech, luxury gifts",36.78,3.7,630
+P84,EDC Tool Kit,Fitness,GearNest,"minimalist gifts, EDC gear",97.0,3.2,36
+P85,Smartwatch,Tech,Minimade,running accessories,95.03,3.4,616
+P86,Kitchen Scissors,Travel Gear,TechSeed,budget tech,66.03,3.2,589
+P87,Travel Canister,Outdoor Gear,Minimade,"emergency gear, outdoor survival gear",71.23,3.1,673
+P88,Leather Wallet,Travel Gear,Minimade,running accessories,23.97,4.9,660
+P89,Headphones,Fitness,Minimade,"outdoor survival gear, EDC gear",29.97,4.0,676
+P90,Smartwatch,Tech,Minimade,"emergency gear, outdoor survival gear",54.51,4.7,616
+P91,Smartwatch,Outdoor Gear,SnockCo,minimalist kitchen tools,38.71,3.9,778
+P92,Headphones,Tech,TechSeed,"EDC gear, emergency gear",47.21,3.1,881
+P93,Leather Wallet,Accessories,GearNest,"budget tech, luxury gifts",45.16,3.5,296
+P94,EDC Tool Kit,Fitness,FlashZone,budget tech,15.86,4.9,97
+P95,Kitchen Scissors,Fitness,Minimade,running accessories,62.19,3.5,497
+P96,Headphones,Kitchen,SnockCo,"travel container, EDC gear",40.01,3.8,259
+P97,Smartwatch,Fitness,UrbanTrek,"EDC gear, emergency gear",55.23,4.1,445
+P98,Mini Flashlight,Outdoor Gear,TechSeed,"luxury gifts, minimalist gifts",53.57,3.6,246
+P99,Key Organizer,Fitness,UrbanTrek,minimalist kitchen tools,25.16,4.1,790
+P100,Tactical Flashlight,Accessories,TechSeed,minimalist kitchen tools,56.16,4.4,788
